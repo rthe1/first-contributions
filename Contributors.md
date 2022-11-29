@@ -523,6 +523,7 @@
 - [Santiago Urbano](https://github.com/sanurb)
 - [સ્મિત કાછડીયા](https://github.com/smeekas)
 - [Rao Khuram Shahzad](https://github.com/KhuramShahzad-5335)
+- [Reshawn Hamilton](https://github.com/rthe1/)
 - [Nikita Mahamuni](https://github.com/Nikita0509/)
 - [Yash Deharia](https://github.com/yashdeharia)
 - [Akshay Kudalkar](https://github.com/Akshaykk12)
